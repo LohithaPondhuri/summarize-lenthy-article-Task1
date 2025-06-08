@@ -1,0 +1,8 @@
+
+## 📁 Project Structure
+
+```
+text_summarizer/
+├── summarizer.py          # Main Python script
+├── README.md              # Project documentation
+```
